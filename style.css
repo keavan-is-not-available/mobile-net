@@ -1,0 +1,30 @@
+#foot{
+  background-color: grey;
+  opacity:80%;
+  padding: 10px;
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+  color: black;
+}
+#heading{
+  border-radius: 10px;
+  margin: 0;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+#b_o_x{
+  background-color: white;
+  color: black;
+  width: 30%;
+  padding: 5px;
+  border-radius: 10px;
+}
+body{
+  background-image: url("random\ stuff\ background.jpg");
+  opacity:99%;
+}
+canvas{
+  border:3px solid black;
+  margin-top: 110px;
+}
